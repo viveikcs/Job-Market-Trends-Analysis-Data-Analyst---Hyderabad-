@@ -15,25 +15,7 @@ A Python-based Data Analysis model that scrapes Data Analyst job listings from N
 
 ### **PROJECT STRUCTURE**
 
-job-market-trends-analysis/
-│
-├── 📁 data/
-│   ├── Naukri.com_DA_HYD.xls
-│   ├── Naukri.com_DA_HYD_Skills.xls
-|
-├── 📁 screenshots/
-|   ├── power_bi_dashboard.png
-|   └── project_structure.png 
-│
-├── 📁 scripts/
-│   ├── Data_Analyst_Market_Trends_Analysis.py
-    └── requirements.txt
-│
-├── 📁 powerbi/
-│   └── Data_Analyst_Market_Dashboard.pbix
-│
-├── README.md
-|__ .gitignore 
+<img src="screenshots/project_structure.png" width="300" alt="GitHub Project Structure">
 
 ### **TOOLS USED**
 
