@@ -15,7 +15,7 @@ A Python-based Data Analysis model that scrapes Data Analyst job listings from N
 
 ### **PROJECT STRUCTURE**
 
-<img src="screenshots/project_structure.png" width="300" alt="GitHub Project Structure">
+<img src="screenshots/proj_structure.png" width="300" alt="GitHub Project Structure">
 
 ### **TOOLS USED**
 
