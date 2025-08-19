@@ -2,7 +2,7 @@
 
 ### **DESCRIPTION**
 
-A Python-based Data Analysis model that scrapes Data Analyst job listings from Naukri.com using Python, processes the data with Pandas, and visualizes insights using Power BI.
+A Python-based Data Analysis model that scrapes Data Analyst job listings from Naukri.com using Selenium, processes the data with Pandas, and visualizes insights using Power BI.
 
 ### **FEATURES**
 
