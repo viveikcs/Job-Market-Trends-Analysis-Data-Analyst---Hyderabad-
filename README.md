@@ -29,7 +29,7 @@ A Python-based Data Analysis model that scrapes Data Analyst job listings from N
 
 ### **POWER BI DASBOARD**
 
-<img src="screenshots/Data_Analyst_Market_Dashboard.png" width="300" alt="Power BI Dashboard preview">
+<img src="screenshots/Data_Analyst_Market_Dashboard.png" width="600" alt="Power BI Dashboard preview">
 
 ### **HOW TO RUN THE PROJECT**
 
