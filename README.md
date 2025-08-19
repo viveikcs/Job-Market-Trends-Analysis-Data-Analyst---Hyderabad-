@@ -27,7 +27,7 @@ A Python-based Data Analysis model that scrapes Data Analyst job listings from N
 - Power BI
 - MS Excel
 
-### **POWER BI DASBOARD**
+### **POWER BI DASHBOARD**
 
 <img src="screenshots/Data_Analyst_Market_Dashboard.png" width="600" alt="Power BI Dashboard preview">
 
